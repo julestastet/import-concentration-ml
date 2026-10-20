@@ -1,0 +1,18 @@
+# Raw and processed data (too large for Git — download links in README)
+data_raw/
+data_processed/
+*.parquet
+*.rds
+
+# Generated outputs
+*.csv
+fig_*.png
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# OS
+.DS_Store
