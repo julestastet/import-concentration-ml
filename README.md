@@ -62,5 +62,4 @@ Requires R with: tidyverse, arrow, readxl, zoo, randomForest, caret, glmnet, pRO
 
 ## Author
 
-**Jules Tastet**, École Polytechnique, M1 Data & Economics for Public Policy.
-Full methodology, figures and interpretation: see the report in `report/`.
+**Jules Tastet**, École Polytechnique
