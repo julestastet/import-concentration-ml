@@ -1,8 +1,7 @@
 # Predicting Critical Import Concentration in French Trade
 
-**A machine-learning early-warning system for supply-chain vulnerability: classifying, one year in advance, which French import markets are at risk of becoming critically dependent on a single supplier.**
+A machine-learning early-warning system for supply-chain vulnerability: classifying, one year in advance, which French import markets are at risk of becoming critically dependent on a single supplier.
 
-Final project for *Introduction to Statistical Learning*, École Polytechnique (M1 Data & Economics for Public Policy), April 2026.
 
 ## Why it matters
 
