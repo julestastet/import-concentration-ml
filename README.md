@@ -47,7 +47,7 @@ All data is public; raw files are too large for Git and must be downloaded:
 │   ├── 01_data_processing.R   # raw BACI -> ML-ready panel + WTO/Pink Sheet merges
 │   └── 02_modeling.R          # 3 models, temporal CV, figures, final holdout evaluation
 ├── report/
-│   └── Final_Project_ML_Class.pdf   # full research report (15 pages)
+│   └── report_import_concentration.pdf   # full research report (7 pages)
 ├── LICENSE
 └── README.md
 ```
